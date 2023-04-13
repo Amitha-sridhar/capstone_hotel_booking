@@ -1,1 +1,1 @@
-# capstone_hotel_booking
+# EDA Capstone Project_Hotel_Booking
