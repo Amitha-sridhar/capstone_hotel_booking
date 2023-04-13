@@ -27,7 +27,7 @@ arrival_date_day_of_month: Day of month of arrival date
 stays_in_weekend_nights: No. of weekend nights spent in a hotel
 stays_in_week_nights: No. of weeknights spent in a hotel
 adults: No. of adults in single booking record.
-children: No. of children in single booking record.
+children: No. of children in single booking record
 babies: No. of babies in single booking record. 
 meal: Type of meal chosen
 BB:- bed and breakfast
